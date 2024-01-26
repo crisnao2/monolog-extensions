@@ -1,0 +1,21 @@
+{
+    "name": "crisnao2/monolog-extensions",
+    "description": "Monolog Extensions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristiano Soares",
+            "email": "crisnao2@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "php": "^7.1||^8",
+        "monolog/monolog": "~2.0||^3"
+    },
+    "autoload": {
+        "psr-4": {
+            "MonologExtensions\\": "src/Monolog"
+        }
+    }
+}
