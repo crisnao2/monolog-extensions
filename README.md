@@ -2,7 +2,7 @@
 ![PHP from Packagist](https://img.shields.io/packagist/php-v/crisnao2/monolog-extensions?style=flat-square)
 ![Licence](https://img.shields.io/packagist/l/crisnao2/monolog-extensions?style=flat-square)
 
-# Datadog Monolog integration
+# Monolog integration
 
 This project aims to be a set of extensions to complement the monolog
 
